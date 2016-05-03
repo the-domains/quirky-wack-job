@@ -1,0 +1,28 @@
+name: Quirky Wack Job
+favicon: null
+layout_spectrum: 0.5908675875980407
+typography_spectrum: 0.3551725270226598
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7618089623283595
+  lightness: 0.2623564873356372
+  saturation: 0.2784084505401552
+  rhythmicContrast: 0.5629932533483952
+purpose: []
